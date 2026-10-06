@@ -1,4 +1,4 @@
-﻿# Bajo Rental Trip & Tours - Website
+# Bajo Rental Trip & Tours - Website
 
 Website resmi **Bajo Rental Trip & Tours** - Jasa sewa mobil terpercaya di Labuan Bajo, Flores, NTT.
 
@@ -12,18 +12,41 @@ Website resmi **Bajo Rental Trip & Tours** - Jasa sewa mobil terpercaya di Labua
 - Tombol WhatsApp di setiap kartu kendaraan
 - Form pemesanan langsung ke WhatsApp
 - Animasi smooth dan efek glassmorphism
-- SEO optimized
+- **Mesin Pembuat Artikel Otomatis (2 Artikel / Hari)** dengan kata kunci:
+  - `sewa mobil labuan bajo`
+  - `rental mobil labuan bajo`
+  - `bajo trip & tours`
+  - `sewa hiace labuan bajo`
+- **100% Bebas Plagiat Google & SEO Terindeks**: Schema JSON-LD (Article, Breadcrumbs, FAQPage, AutoRental), OpenGraph, sitemap.xml, dan robots.txt otomatis terbarui.
 
 ## Struktur File
 ```
 /
-|-- index.html          # Halaman utama
+|-- index.html                 # Halaman utama (dilengkapi section artikel terbaru)
+|-- publish_today.bat          # Satu klik untuk menerbitkan 2 artikel hari ini
+|-- sitemap.xml                # Sitemap XML otomatis diperbarui untuk Googlebot
+|-- robots.txt                 # Konfigurasi perayapan mesin pencari
+|-- PANDUAN_INDEX_GOOGLE.md    # Panduan lengkap indexing Google Search Console
+|-- artikel/                   # Folder artikel terbit
+|   |-- index.html             # Hub blog dengan live search & filter kategori
+|   |-- [slug-artikel].html    # Halaman artikel lengkap
 |-- css/
-|   |-- style.css       # Stylesheet utama
+|   |-- style.css              # Stylesheet utama
+|   |-- blog.css               # Stylesheet artikel, tabel, & accordion FAQ
 |-- js/
-|   |-- main.js         # JavaScript utama
-|-- images/
-|   |-- logo.png        # Logo Bajo Rental
+|   |-- main.js                # JavaScript utama
+|   |-- blog.js                # Interaktivitas artikel (progress bar, TOC, search)
+|-- data/
+|   |-- articles.json          # Database antrean artikel
+|-- scripts/
+|   |-- auto_publisher.js      # Generator & publisher otomatis
+|   |-- articles_data.js       # Data konten orisinal
+|   |-- content_generator.js   # Generator artikel dinamis
+|   |-- ping_google.js         # Ping sitemap ke mesin pencari
+|   |-- setup_scheduler.bat    # Pemasang Windows Task Scheduler
+|-- .github/workflows/
+|   |-- daily-articles.yml     # Cron otomatisasi harian via GitHub Actions
+|-- images/                    # Asset gambar armada & destinasi
 ```
 
 ## Cara Deploy ke GitHub Pages

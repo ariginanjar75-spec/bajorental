@@ -1,0 +1,118 @@
+[2026-10-05T02:25:20.003Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T02:25:20.010Z] Inisialisasi database artikel dengan 8 entri awal.
+[2026-10-05T02:25:20.010Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T02:25:20.010Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T02:25:20.056Z] Merender 2 file HTML artikel di folder 'artikel/'.
+[2026-10-05T02:25:20.057Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T02:25:20.058Z] Sitemap.xml berhasil diperbarui dengan 4 URL.
+[2026-10-05T02:25:20.059Z] Menambahkan link "Blog & Artikel" ke navbar index.html.
+[2026-10-05T02:25:20.060Z] Menyisipkan section Artikel Terbaru ke index.html sebelum #kontak.
+[2026-10-05T02:25:20.063Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T02:34:40.999Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T02:34:41.007Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T02:34:41.007Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T02:34:41.049Z] Merender 2 file HTML artikel di folder 'artikel/'.
+[2026-10-05T02:34:41.050Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T02:34:41.051Z] Sitemap.xml berhasil diperbarui dengan 4 URL.
+[2026-10-05T02:34:41.052Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T02:34:41.053Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T02:37:00.134Z] Memulai proses auto-publisher untuk tanggal: 2026-10-06...
+[2026-10-05T02:37:00.140Z] Artikel yang sudah terbit pada 2026-10-06: 0
+[2026-10-05T02:37:00.141Z] Mempersiapkan publikasi 2 artikel baru...
+[2026-10-05T02:37:00.141Z] Dipublikasikan: [rental mobil labuan bajo] - Rental Mobil Labuan Bajo Antar Jemput Bandara Komodo 24 Jam: Praktis & Nyaman
+[2026-10-05T02:37:00.141Z] Dipublikasikan: [bajo trip & tours] - Bajo Trip & Tours: Layanan Rental Mobil & Wisata Darat Terbaik di Labuan Bajo
+[2026-10-05T02:37:00.168Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T02:37:00.169Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T02:37:00.170Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T02:37:00.171Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T02:37:00.172Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T02:40:31.863Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T02:40:31.869Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-05T02:40:31.870Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T02:40:31.870Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T02:40:31.898Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T02:40:31.899Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T02:40:31.899Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T02:40:31.901Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T02:40:31.901Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T02:44:11.832Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T02:44:11.839Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-05T02:44:11.840Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T02:44:11.840Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T02:44:11.865Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T02:44:11.866Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T02:44:11.867Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T02:44:11.868Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T02:44:11.868Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T03:22:40.179Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T03:22:40.187Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-05T03:22:40.187Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T03:22:40.188Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T03:22:40.211Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T03:22:40.213Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T03:22:40.214Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T03:22:40.215Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T03:22:40.216Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T03:22:51.604Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T03:22:51.612Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-05T03:22:51.613Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T03:22:51.613Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T03:22:51.636Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T03:22:51.637Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T03:22:51.638Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T03:22:51.640Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T03:22:51.640Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T03:22:55.358Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T03:22:55.366Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-05T03:22:55.366Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T03:22:55.366Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T03:22:55.390Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T03:22:55.391Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T03:22:55.391Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T03:22:55.393Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T03:22:55.394Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T03:23:30.121Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T03:23:30.129Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-05T03:23:30.130Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T03:23:30.130Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T03:23:30.153Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T03:23:30.155Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T03:23:30.155Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T03:23:30.157Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T03:23:30.158Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T03:23:31.108Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T03:23:31.116Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-05T03:23:31.117Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T03:23:31.117Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T03:23:31.142Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T03:23:31.143Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T03:23:31.144Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T03:23:31.146Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T03:23:31.147Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T03:23:31.877Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T03:23:31.884Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-05T03:23:31.884Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T03:23:31.885Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T03:23:31.908Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T03:23:31.911Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T03:23:31.914Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T03:23:31.919Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T03:23:31.921Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T03:23:33.094Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T03:23:33.102Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-05T03:23:33.102Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T03:23:33.103Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T03:23:33.125Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T03:23:33.127Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T03:23:33.128Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T03:23:33.130Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T03:23:33.131Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-05T03:23:34.157Z] Memulai proses auto-publisher untuk tanggal: 2026-10-05...
+[2026-10-05T03:23:34.166Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-05T03:23:34.166Z] Artikel yang sudah terbit pada 2026-10-05: 2
+[2026-10-05T03:23:34.167Z] Target 2 artikel untuk hari ini (2026-10-05) telah tercapai.
+[2026-10-05T03:23:34.191Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-05T03:23:34.192Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-05T03:23:34.193Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-05T03:23:34.195Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-05T03:23:34.196Z] Proses publikasi artikel harian selesai dengan sukses!
