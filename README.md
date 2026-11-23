@@ -76,16 +76,16 @@ Juga ganti semua link `https://wa.me/6281234567890` di `index.html` dengan nomor
 
 | Kendaraan | Lepas Kunci | Include Driver+BBM |
 |-----------|-------------|---------------------|
-| New Brio | Rp 50K | Rp 850K |
-| New Avanza | Rp 600K | Rp 950K |
+| New Brio | Rp 500K | Rp 850K |
+| New Avanza | Rp 600K | Rp 900K |
 | New Rush | Rp 650K | Rp 1.000K |
-| Innova Reborn | Rp 750K | Rp 1.100K |
-| Fortuner | Rp 1.600K | Rp 1.950K |
-| Alphard | - | Rp 4.650K |
+| Innova Reborn | Rp 650K | Rp 1.050K |
+| Fortuner | Rp 1.550K | Rp 1.850K |
+| Alphard | - | Rp 4.500K |
 | Pajero Sport | Rp 1.650K | Rp 1.950K |
 | Hilux 4x4 | Rp 1.550K | Rp 2.000K |
-| Hiace Premio | Rp 1.600K | Rp 2.100K |
-| Hiace Commuter | Rp 1.500K | Rp 1.850K |
+| Hiace Premio | Rp 1.500K | Rp 2.050K |
+| Hiace Commuter | Rp 1.400K | Rp 1.800K |
 | Grandmax Pickup | Rp 450K | Rp 800K |
 | Medium Bus | - | Rp 2.650K |
 
