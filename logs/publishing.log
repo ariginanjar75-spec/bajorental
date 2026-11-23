@@ -116,14 +116,59 @@
 [2026-10-05T03:23:34.193Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
 [2026-10-05T03:23:34.195Z] Memperbarui section Artikel Terbaru di index.html.
 [2026-10-05T03:23:34.196Z] Proses publikasi artikel harian selesai dengan sukses!
-[2026-10-09T05:49:47.410Z] Memulai proses auto-publisher untuk tanggal: 2026-10-09...
-[2026-10-09T05:49:47.418Z] Memperbarui konten artikel dasar di data/articles.json.
-[2026-10-09T05:49:47.418Z] Artikel yang sudah terbit pada 2026-10-09: 0
-[2026-10-09T05:49:47.418Z] Mempersiapkan publikasi 2 artikel baru...
-[2026-10-09T05:49:47.419Z] Dipublikasikan: [sewa hiace labuan bajo] - Sewa Hiace Premio Labuan Bajo Mewah & Nyaman: Solusi Tour Komodo Overland Flores
-[2026-10-09T05:49:47.419Z] Dipublikasikan: [sewa mobil labuan bajo] - Daftar Harga Sewa Mobil Labuan Bajo 2026 Terlengkap: Brio, Avanza hingga Alphard
-[2026-10-09T05:49:47.448Z] Merender 6 file HTML artikel di folder 'artikel/'.
-[2026-10-09T05:49:47.449Z] Merender halaman hub 'artikel/index.html'.
-[2026-10-09T05:49:47.450Z] Sitemap.xml berhasil diperbarui dengan 8 URL.
-[2026-10-09T05:49:47.452Z] Memperbarui section Artikel Terbaru di index.html.
-[2026-10-09T05:49:47.453Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-06T05:59:05.665Z] Memulai proses auto-publisher untuk tanggal: 2026-10-06...
+[2026-10-06T05:59:05.674Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-06T05:59:05.674Z] Artikel yang sudah terbit pada 2026-10-06: 2
+[2026-10-06T05:59:05.674Z] Target 2 artikel untuk hari ini (2026-10-06) telah tercapai.
+[2026-10-06T05:59:05.727Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-06T05:59:05.729Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-06T05:59:05.730Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-06T05:59:05.733Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-06T05:59:05.734Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-06T05:59:11.432Z] Memulai proses auto-publisher untuk tanggal: 2026-10-06...
+[2026-10-06T05:59:11.439Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-06T05:59:11.440Z] Artikel yang sudah terbit pada 2026-10-06: 2
+[2026-10-06T05:59:11.440Z] Target 2 artikel untuk hari ini (2026-10-06) telah tercapai.
+[2026-10-06T05:59:11.466Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-06T05:59:11.467Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-06T05:59:11.468Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-06T05:59:11.469Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-06T05:59:11.470Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-06T05:59:12.621Z] Memulai proses auto-publisher untuk tanggal: 2026-10-06...
+[2026-10-06T05:59:12.630Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-06T05:59:12.631Z] Artikel yang sudah terbit pada 2026-10-06: 2
+[2026-10-06T05:59:12.632Z] Target 2 artikel untuk hari ini (2026-10-06) telah tercapai.
+[2026-10-06T05:59:12.657Z] Merender 4 file HTML artikel di folder 'artikel/'.
+[2026-10-06T05:59:12.661Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-06T05:59:12.662Z] Sitemap.xml berhasil diperbarui dengan 6 URL.
+[2026-10-06T05:59:12.665Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-06T05:59:12.666Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-09T01:11:35.700Z] Memulai proses auto-publisher untuk tanggal: 2026-10-09...
+[2026-10-09T01:11:35.793Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-09T01:11:35.797Z] Artikel yang sudah terbit pada 2026-10-09: 0
+[2026-10-09T01:11:35.798Z] Mempersiapkan publikasi 2 artikel baru...
+[2026-10-09T01:11:35.798Z] Dipublikasikan: [sewa hiace labuan bajo] - Sewa Hiace Premio Labuan Bajo Mewah & Nyaman: Solusi Tour Komodo Overland Flores
+[2026-10-09T01:11:35.802Z] Dipublikasikan: [sewa mobil labuan bajo] - Daftar Harga Sewa Mobil Labuan Bajo 2026 Terlengkap: Brio, Avanza hingga Alphard
+[2026-10-09T01:11:36.094Z] Merender 6 file HTML artikel di folder 'artikel/'.
+[2026-10-09T01:11:36.096Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-09T01:11:36.097Z] Sitemap.xml berhasil diperbarui dengan 8 URL.
+[2026-10-09T01:11:36.100Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-09T01:11:36.101Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-09T01:11:38.178Z] Memulai proses auto-publisher untuk tanggal: 2026-10-09...
+[2026-10-09T01:11:38.230Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-09T01:11:38.231Z] Artikel yang sudah terbit pada 2026-10-09: 2
+[2026-10-09T01:11:38.232Z] Target 2 artikel untuk hari ini (2026-10-09) telah tercapai.
+[2026-10-09T01:11:38.270Z] Merender 6 file HTML artikel di folder 'artikel/'.
+[2026-10-09T01:11:38.273Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-09T01:11:38.273Z] Sitemap.xml berhasil diperbarui dengan 8 URL.
+[2026-10-09T01:11:38.275Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-09T01:11:38.276Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-10-09T05:48:24.817Z] Memulai proses auto-publisher untuk tanggal: 2026-10-09...
+[2026-10-09T05:48:24.832Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-10-09T05:48:24.833Z] Artikel yang sudah terbit pada 2026-10-09: 2
+[2026-10-09T05:48:24.833Z] Target 2 artikel untuk hari ini (2026-10-09) telah tercapai.
+[2026-10-09T05:48:24.945Z] Merender 6 file HTML artikel di folder 'artikel/'.
+[2026-10-09T05:48:24.948Z] Merender halaman hub 'artikel/index.html'.
+[2026-10-09T05:48:24.949Z] Sitemap.xml berhasil diperbarui dengan 8 URL.
+[2026-10-09T05:48:24.951Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-10-09T05:48:24.952Z] Proses publikasi artikel harian selesai dengan sukses!

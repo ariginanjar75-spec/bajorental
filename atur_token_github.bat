@@ -1,6 +1,7 @@
 @echo off
 title Pengaturan Token GitHub - ariginanjar75-spec
 color 0b
+cd /d "%~dp0"
 echo ========================================================
 echo     PENGATURAN TOKEN GITHUB (ariginanjar75-spec)
 echo ========================================================
@@ -39,8 +40,8 @@ if %errorlevel% equ 0 (
     echo ========================================================
     echo  [SUKSES] TOKEN BERHASIL DISIMPAN & PUSH BERHASIL!
     echo ========================================================
-    echo  Mulai sekarang, Anda tinggal klik ganda ikon di Desktop:
-    echo  "Update Bajo Rental ke GitHub"
+    echo  Mulai sekarang, Anda tinggal klik ganda launcher di Desktop:
+    echo  "Launcher Bajo Rental GitHub"
     echo  Semua file akan ter-upload otomatis dalam hitungan detik!
     echo ========================================================
 ) else (
