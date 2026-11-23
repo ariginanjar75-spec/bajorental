@@ -1,0 +1,33 @@
+name: Daily Auto Article Publisher
+
+on:
+  schedule:
+    # Berjalan otomatis setiap hari pukul 00:00 UTC (08:00 WITA)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Memungkinkan tombol 'Run workflow' secara manual di GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  publish-articles:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Auto Publisher (2 Artikel / Hari)
+        run: |
+          node scripts/auto_publisher.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "Bajo Rental Auto-Publisher"
+          git config --global user.email "bot@bajorentaltriptours.com"
+          git add artikel/ data/articles.json sitemap.xml index.html logs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto publish: 2 artikel harian baru [skip ci]" && git push)
