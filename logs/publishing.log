@@ -196,3 +196,16 @@
 [2026-11-25T05:46:36.582Z] Sitemap.xml berhasil diperbarui dengan 12 URL.
 [2026-11-25T05:46:36.583Z] Memperbarui section Artikel Terbaru di index.html.
 [2026-11-25T05:46:36.583Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-11-26T05:37:43.911Z] Memulai proses auto-publisher untuk tanggal: 2026-11-26...
+[2026-11-26T05:37:43.915Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-11-26T05:37:43.916Z] Artikel yang sudah terbit pada 2026-11-26: 0
+[2026-11-26T05:37:43.916Z] Mempersiapkan publikasi 2 artikel baru...
+[2026-11-26T05:37:43.927Z] Menghasilkan artikel dinamis baru: Rental Mobil Labuan Bajo Siap Antar Jemput Bandara Komodo 24 Jam Non-Stop (26 November 2026)
+[2026-11-26T05:37:43.927Z] Dipublikasikan: [rental mobil labuan bajo] - Rental Mobil Labuan Bajo Siap Antar Jemput Bandara Komodo 24 Jam Non-Stop (26 November 2026)
+[2026-11-26T05:37:43.927Z] Menghasilkan artikel dinamis baru: Eksplorasi Spot Tersembunyi Labuan Bajo Bersama Bajo Trip & Tours: Rute Eksotis Flores Barat (26 November 2026)
+[2026-11-26T05:37:43.927Z] Dipublikasikan: [bajo trip & tours] - Eksplorasi Spot Tersembunyi Labuan Bajo Bersama Bajo Trip & Tours: Rute Eksotis Flores Barat (26 November 2026)
+[2026-11-26T05:37:43.934Z] Merender 12 file HTML artikel di folder 'artikel/'.
+[2026-11-26T05:37:43.935Z] Merender halaman hub 'artikel/index.html'.
+[2026-11-26T05:37:43.935Z] Sitemap.xml berhasil diperbarui dengan 14 URL.
+[2026-11-26T05:37:43.936Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-11-26T05:37:43.936Z] Proses publikasi artikel harian selesai dengan sukses!
