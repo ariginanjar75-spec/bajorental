@@ -209,3 +209,16 @@
 [2026-11-26T05:37:43.935Z] Sitemap.xml berhasil diperbarui dengan 14 URL.
 [2026-11-26T05:37:43.936Z] Memperbarui section Artikel Terbaru di index.html.
 [2026-11-26T05:37:43.936Z] Proses publikasi artikel harian selesai dengan sukses!
+[2026-11-27T05:30:46.183Z] Memulai proses auto-publisher untuk tanggal: 2026-11-27...
+[2026-11-27T05:30:46.187Z] Memperbarui konten artikel dasar di data/articles.json.
+[2026-11-27T05:30:46.187Z] Artikel yang sudah terbit pada 2026-11-27: 0
+[2026-11-27T05:30:46.187Z] Mempersiapkan publikasi 2 artikel baru...
+[2026-11-27T05:30:46.197Z] Menghasilkan artikel dinamis baru: Sewa Hiace Labuan Bajo untuk Liburan Keluarga & Komunitas: Kenyamanan Mewah Keliling Flores (27 November 2026)
+[2026-11-27T05:30:46.197Z] Dipublikasikan: [sewa hiace labuan bajo] - Sewa Hiace Labuan Bajo untuk Liburan Keluarga & Komunitas: Kenyamanan Mewah Keliling Flores (27 November 2026)
+[2026-11-27T05:30:46.197Z] Menghasilkan artikel dinamis baru: Sewa Mobil Innova Reborn Labuan Bajo: Pilihan Terfavorit Wisatawan untuk Kenyamanan Maksimal (27 November 2026)
+[2026-11-27T05:30:46.197Z] Dipublikasikan: [sewa mobil labuan bajo] - Sewa Mobil Innova Reborn Labuan Bajo: Pilihan Terfavorit Wisatawan untuk Kenyamanan Maksimal (27 November 2026)
+[2026-11-27T05:30:46.204Z] Merender 14 file HTML artikel di folder 'artikel/'.
+[2026-11-27T05:30:46.205Z] Merender halaman hub 'artikel/index.html'.
+[2026-11-27T05:30:46.205Z] Sitemap.xml berhasil diperbarui dengan 16 URL.
+[2026-11-27T05:30:46.206Z] Memperbarui section Artikel Terbaru di index.html.
+[2026-11-27T05:30:46.206Z] Proses publikasi artikel harian selesai dengan sukses!

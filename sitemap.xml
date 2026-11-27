@@ -3,16 +3,28 @@
   <!-- Halaman Utama -->
   <url>
     <loc>https://bajorentaltriptours.com/</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- Halaman Hub Blog -->
   <url>
     <loc>https://bajorentaltriptours.com/artikel/</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bajorentaltriptours.com/artikel/sewa-hiace-labuan-bajo-vip-family-2026-11-27.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bajorentaltriptours.com/artikel/sewa-mobil-labuan-bajo-innova-comfort-2026-11-27.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bajorentaltriptours.com/artikel/rental-mobil-labuan-bajo-airport-pickup-2026-11-26.html</loc>
